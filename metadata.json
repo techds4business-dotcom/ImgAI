@@ -1,0 +1,8 @@
+{
+  "name": "Artistic Image Generator",
+  "description": "An AI-powered image generator that allows generating and editing high-quality artistic outputs utilizing customizable style presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
